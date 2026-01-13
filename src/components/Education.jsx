@@ -127,7 +127,7 @@ const Education = () => {
                                         2016 — 2022
                                     </span>
                                     <h4 className="text-xl md:text-3xl font-bold text-gray-900 leading-tight mb-1 group-hover:text-blue-600 transition-colors">
-                                        Bachelor of IT Engineering
+                                        Bachelor of Information Technology Engineering
                                     </h4>
                                     <p className="text-lg text-gray-500 font-medium">
                                         AI Specialist
