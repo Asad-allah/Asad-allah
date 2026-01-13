@@ -95,16 +95,16 @@ const Education = () => {
                                 </div>
                                 <div className="flex-1">
                                     <span className="inline-block px-3 py-1 bg-gray-50 text-gray-400 text-xs font-mono rounded-full mb-3">
-                                        2022 - 2024
+                                        2023 — Present
                                     </span>
                                     <h4 className="text-xl md:text-3xl font-bold text-gray-900 leading-tight mb-1 group-hover:text-blue-600 transition-colors">
-                                        Master of Technology (M.Tech)
+                                        Master in Web Science
                                     </h4>
                                     <p className="text-lg text-gray-500 font-medium">
-                                        Artificial Intelligence & Data Science
+                                        Syrian Virtual University
                                     </p>
                                     <p className="text-gray-400 text-sm mt-1 font-mono uppercase tracking-wider">
-                                        Lebanese University
+                                        Damascus, Syria
                                     </p>
                                 </div>
                             </div>
@@ -124,16 +124,16 @@ const Education = () => {
                                 </div>
                                 <div className="flex-1">
                                     <span className="inline-block px-3 py-1 bg-gray-50 text-gray-400 text-xs font-mono rounded-full mb-3">
-                                        2018 - 2021
+                                        2016 — 2022
                                     </span>
                                     <h4 className="text-xl md:text-3xl font-bold text-gray-900 leading-tight mb-1 group-hover:text-blue-600 transition-colors">
-                                        Bachelor of Science (BS)
+                                        Bachelor of IT Engineering
                                     </h4>
                                     <p className="text-lg text-gray-500 font-medium">
-                                        Computer Science
+                                        AI Specialist
                                     </p>
                                     <p className="text-gray-400 text-sm mt-1 font-mono uppercase tracking-wider">
-                                        Lebanese University
+                                        Damascus University
                                     </p>
                                 </div>
                             </div>
