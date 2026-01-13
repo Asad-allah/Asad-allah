@@ -67,7 +67,7 @@ const Education = () => {
                         <span className="text-xs font-mono font-bold text-gray-400 uppercase tracking-[0.3em] mb-4 block">
                             02 / The Foundation
                         </span>
-                        <h2 className="text-4xl md:text-6xl font-bold text-gray-200 mt-4 tracking-tight uppercase">
+                        <h2 className="text-2xl md:text-6xl font-bold text-gray-200 mt-4 tracking-tight uppercase">
                             Academic & Professional
                         </h2>
                     </div>
@@ -97,7 +97,7 @@ const Education = () => {
                                     <span className="inline-block px-3 py-1 bg-gray-50 text-gray-400 text-xs font-mono rounded-full mb-3">
                                         2022 - 2024
                                     </span>
-                                    <h4 className="text-3xl font-bold text-gray-900 leading-tight mb-1 group-hover:text-blue-600 transition-colors">
+                                    <h4 className="text-xl md:text-3xl font-bold text-gray-900 leading-tight mb-1 group-hover:text-blue-600 transition-colors">
                                         Master of Technology (M.Tech)
                                     </h4>
                                     <p className="text-lg text-gray-500 font-medium">
@@ -126,7 +126,7 @@ const Education = () => {
                                     <span className="inline-block px-3 py-1 bg-gray-50 text-gray-400 text-xs font-mono rounded-full mb-3">
                                         2018 - 2021
                                     </span>
-                                    <h4 className="text-3xl font-bold text-gray-900 leading-tight mb-1 group-hover:text-blue-600 transition-colors">
+                                    <h4 className="text-xl md:text-3xl font-bold text-gray-900 leading-tight mb-1 group-hover:text-blue-600 transition-colors">
                                         Bachelor of Science (BS)
                                     </h4>
                                     <p className="text-lg text-gray-500 font-medium">

@@ -64,7 +64,7 @@ const Contact = () => {
                                 <span className="text-xs font-mono text-gray-500 uppercase tracking-widest min-w-[100px] group-hover:text-black transition-colors delay-75">
                                     {link.name}
                                 </span>
-                                <span className="text-xl md:text-5xl font-bold text-gray-300 group-hover:text-black transition-colors duration-300 break-all text-right">
+                                <span className="text-sm md:text-5xl font-bold text-gray-300 group-hover:text-black transition-colors duration-300 break-all text-right">
                                     {link.value}
                                 </span>
                             </div>

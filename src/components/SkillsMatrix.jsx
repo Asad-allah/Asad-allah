@@ -61,7 +61,7 @@ const SkillsMatrix = () => {
                     <span className="text-xs font-mono font-bold text-gray-400 uppercase tracking-[0.3em] block mb-6">
                         04 / Technical Report
                     </span>
-                    <h2 className="text-4xl md:text-6xl font-bold text-gray-200 mt-4 tracking-tight uppercase">
+                    <h2 className="text-2xl md:text-6xl font-bold text-gray-200 mt-4 tracking-tight uppercase">
                         The Arsenal
                     </h2>
                 </motion.div>

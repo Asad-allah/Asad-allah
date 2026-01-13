@@ -44,7 +44,7 @@ const ProjectsBento = () => {
                     <span className="text-xs font-mono font-bold text-gray-400 uppercase tracking-[0.3em] mb-4">
                         03 / Impact
                     </span>
-                    <h2 className="text-4xl md:text-6xl font-bold text-gray-200 mt-4 tracking-tight uppercase">
+                    <h2 className="text-2xl md:text-6xl font-bold text-gray-200 mt-4 tracking-tight uppercase">
                         Selected Works
                     </h2>
                 </motion.div>

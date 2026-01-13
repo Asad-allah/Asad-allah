@@ -70,7 +70,7 @@ const ExperienceTimeline = () => {
                         initial={{ opacity: 0, y: 20, filter: "blur(10px)" }}
                         whileInView={{ opacity: 1, y: 0, filter: "blur(0px)" }}
                         transition={{ duration: 0.8 }}
-                        className="text-4xl md:text-6xl font-bold text-gray-200 mt-4 tracking-tight uppercase"
+                        className="text-2xl md:text-6xl font-bold text-gray-200 mt-4 tracking-tight uppercase"
                     >
                         Professional Journey
                     </motion.h2>
@@ -116,11 +116,11 @@ const TimelineCard = ({ item, isEven }) => {
                 className={`flex-1 ${isEven ? "md:text-left" : "md:text-right"} pl-12 md:pl-0`}
             >
                 <div className="mb-4">
-                    <span className="text-sm font-mono font-bold text-gray-500 uppercase tracking-widest bg-gray-50 px-3 py-1 rounded-full">
+                    <span className="text-xs md:text-sm font-mono font-bold text-gray-500 uppercase tracking-widest bg-gray-50 px-3 py-1 rounded-full">
                         {item.period}
                     </span>
                 </div>
-                <h3 className="text-3xl md:text-5xl font-serif font-medium text-gray-900 mb-3 italic">
+                <h3 className="text-xl md:text-5xl font-serif font-medium text-gray-900 mb-2 md:mb-3 italic leading-tight">
                     {item.role}
                 </h3>
                 <h4 className="text-sm md:text-base text-gray-400 font-mono font-bold uppercase tracking-widest mb-6">

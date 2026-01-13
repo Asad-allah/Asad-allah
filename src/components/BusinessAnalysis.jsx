@@ -71,7 +71,7 @@ const BusinessAnalysis = () => {
                         <span className="text-xs font-mono font-bold text-gray-400 uppercase tracking-[0.3em] mb-4 block">
                             04 / The Blueprint
                         </span>
-                        <h2 className="text-4xl md:text-6xl font-bold text-gray-900 mt-4 tracking-tight uppercase">
+                        <h2 className="text-2xl md:text-6xl font-bold text-gray-900 mt-4 tracking-tight uppercase">
                             System Analysis <br /> <span className="text-gray-300 font-serif italic lowercase">& Documentation</span>
                         </h2>
                     </div>
